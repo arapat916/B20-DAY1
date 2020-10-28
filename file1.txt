@@ -7,3 +7,5 @@ Git automatically detected the changes
 We committed this changes into local repository
 
 changes file1
+
+changes for github
